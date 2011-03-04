@@ -21,7 +21,7 @@ To use the latent semantic indexing feature, create an array of documents, and p
 	
 We can then read the features into R and plot them:
 
-  d = read.table("rows.txt")
+	d = read.table("rows.txt")
 	colnames(d) = c("name", "x", "y")
 	qplot(x, y, data = d, label = name, size = 3, geom = "text")
 	
