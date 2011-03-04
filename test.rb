@@ -2,10 +2,10 @@ require_relative './svd'
 
 documents = [
   "human interface computer",
-  "survey user computer system response time",
-  "EPS user interface system",
-  "system human EPS",
-  "user time response",
+  "computer user system response time survey",
+  "interface user system EPS",
+  "human system EPS",
+  "user response time",
   "trees",
   "trees graph",
   "trees graph minors",
