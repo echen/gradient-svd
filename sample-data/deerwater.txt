@@ -1,0 +1,12 @@
+human	0.22	-0.11
+interface	0.20	-0.07
+computer	0.24	0.04
+user	0.40	0.06
+system	0.64	-0.17
+response	0.27	0.10
+time	0.27	0.10
+EPS	0.30	-0.14
+survey	0.21	0.27
+trees	0.01	0.49
+graph	0.04	0.62
+minors	0.03	0.45
