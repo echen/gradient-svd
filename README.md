@@ -19,7 +19,7 @@ To use the latent semantic indexing feature, create an array of documents, and p
 	s.compute
 	s.print("rows.txt", "cols.txt", "log.txt")
 	
-We can then read the features into R and plot them:
+We can then read the features into R:
 
 	d = read.table("rows.txt")
 	colnames(d) = c("name", "x", "y")
